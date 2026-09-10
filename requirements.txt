@@ -1,0 +1,5 @@
+# Windows native COM for SAPI Speech
+pywin32>=306
+
+# Alternative cross-platform TTS (optional fallback)
+pyttsx3>=2.90
